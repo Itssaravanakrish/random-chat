@@ -1,6 +1,6 @@
 import os
 
-TOKEN ="1640025618:AAGH6KpP9PaYW0552EzKqVCEslUkF40_sTI"
+TOKEN ="1270834205:AAGJZWSvUDn5B70tn6mV8SoyzKs3tu9YwJQ"
 URL = "https://strangerchat.azurewebsites.net"
 BASE_TELEGRAM_URL = 'https://api.telegram.org/bot{}'.format(TOKEN)
 LOCAL_WEBHOOK_ENDPOINT = '{}/webhook'.format(URL)
